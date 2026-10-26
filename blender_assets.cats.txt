@@ -1,0 +1,13 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+3d188593-1ef1-4252-83de-b505b6fdb2e4:Everyday GN Assets:Everyday GN Assets
+9e144ce9-0e74-4f0d-89bc-ab7ba03c8b71:Everyday GN Assets/Deform:Everyday GN Assets-Deform
+6d5101d7-49fe-4639-a2bc-a51373eedf48:Everyday GN Assets/Generate:Everyday GN Assets-Generate
+50029d52-2377-4853-844b-3a002616cab4:Everyday GN Assets/Read:Everyday GN Assets-Read
+b0796145-4238-4a6b-90b9-707152f41c18:Everyday GN Assets/Simulation:Everyday GN Assets-Simulation

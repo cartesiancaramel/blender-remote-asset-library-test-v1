@@ -1,0 +1,447 @@
+{
+  "asset_count": 15,
+  "file_count": 1,
+  "assets": [
+    {
+      "name": "Bevel Mesh Basic v2",
+      "id_type": "NODETREE",
+      "files": [
+        "5.2 Everyday Geometry Node Assets v5.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "6d5101d7-49fe-4639-a2bc-a51373eedf48",
+        "tags": [
+          "Generate"
+        ],
+        "author": "Cartesian Caramel",
+        "description": "Mesh Bevel with clamp, harden normals, ect",
+        "license": "CC0",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 64
+          }
+        ]
+      }
+    },
+    {
+      "name": "Circular Array",
+      "id_type": "NODETREE",
+      "files": [
+        "5.2 Everyday Geometry Node Assets v5.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "6d5101d7-49fe-4639-a2bc-a51373eedf48",
+        "tags": [
+          "Generate",
+          "Array"
+        ],
+        "author": "Cartesian Caramel",
+        "description": "Basic circular array",
+        "license": "CC0",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Curve to Mesh UV",
+      "id_type": "NODETREE",
+      "files": [
+        "5.2 Everyday Geometry Node Assets v5.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "6d5101d7-49fe-4639-a2bc-a51373eedf48",
+        "tags": [
+          "Generate",
+          "Curve"
+        ],
+        "author": "Cartesian Caramel",
+        "description": "Curve to mesh node with UVMap output",
+        "license": "CC0",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 0
+          },
+          {
+            "name": "node_tool_idname",
+            "type": "IDP_STRING",
+            "value": "geometry.curve_to_mesh_uv"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Curve Vectors",
+      "id_type": "NODETREE",
+      "files": [
+        "5.2 Everyday Geometry Node Assets v5.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "50029d52-2377-4853-844b-3a002616cab4",
+        "tags": [
+          "Read"
+        ],
+        "author": "Cartesian Caramel",
+        "description": "Curve vector to next point",
+        "license": "CC0",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ease Functions v2",
+      "id_type": "NODETREE",
+      "files": [
+        "5.2 Everyday Geometry Node Assets v5.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "50029d52-2377-4853-844b-3a002616cab4",
+        "author": "Cartesian Caramel",
+        "description": "Ease math funtions",
+        "license": "CC0",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Normal Displace",
+      "id_type": "NODETREE",
+      "files": [
+        "5.2 Everyday Geometry Node Assets v5.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "9e144ce9-0e74-4f0d-89bc-ab7ba03c8b71",
+        "tags": [
+          "Deform"
+        ],
+        "author": "Cartesian Caramel",
+        "license": "CC0",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 0
+          },
+          {
+            "name": "node_tool_idname",
+            "type": "IDP_STRING",
+            "value": "geometry.normal_displace"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Particle Simulation Basic v2",
+      "id_type": "NODETREE",
+      "files": [
+        "5.2 Everyday Geometry Node Assets v5.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "b0796145-4238-4a6b-90b9-707152f41c18",
+        "tags": [
+          "Simulation",
+          "Point"
+        ],
+        "author": "Cartesian Caramel",
+        "description": "Basic particle simulation on points",
+        "license": "CC0",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 64
+          }
+        ]
+      }
+    },
+    {
+      "name": "Point Grid 3D",
+      "id_type": "NODETREE",
+      "files": [
+        "5.2 Everyday Geometry Node Assets v5.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "6d5101d7-49fe-4639-a2bc-a51373eedf48",
+        "tags": [
+          "Generate",
+          "Point"
+        ],
+        "author": "Cartesian Caramel",
+        "description": "Points in a 3D grid layout",
+        "license": "CC0",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Relax Points",
+      "id_type": "NODETREE",
+      "files": [
+        "5.2 Everyday Geometry Node Assets v5.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "9e144ce9-0e74-4f0d-89bc-ab7ba03c8b71",
+        "tags": [
+          "Deform"
+        ],
+        "author": "Cartesian Caramel",
+        "license": "CC0",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "SDF Collision",
+      "id_type": "NODETREE",
+      "files": [
+        "5.2 Everyday Geometry Node Assets v5.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "9e144ce9-0e74-4f0d-89bc-ab7ba03c8b71",
+        "tags": [
+          "Deform",
+          "SDF"
+        ],
+        "author": "Cartesian Caramel",
+        "license": "CC0",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "SDF Mesh Field",
+      "id_type": "NODETREE",
+      "files": [
+        "5.2 Everyday Geometry Node Assets v5.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "50029d52-2377-4853-844b-3a002616cab4",
+        "tags": [
+          "Read",
+          "SDF"
+        ],
+        "author": "Cartesian Caramel",
+        "description": "Distance and normal from a mesh as fields",
+        "license": "CC0",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Seams from UV",
+      "id_type": "NODETREE",
+      "files": [
+        "5.2 Everyday Geometry Node Assets v5.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "50029d52-2377-4853-844b-3a002616cab4",
+        "tags": [
+          "Read",
+          "UV"
+        ],
+        "author": "Cartesian Caramel",
+        "description": "If edge is UV seam",
+        "license": "CC0",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Set Curve Vectors",
+      "id_type": "NODETREE",
+      "files": [
+        "5.2 Everyday Geometry Node Assets v5.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "9e144ce9-0e74-4f0d-89bc-ab7ba03c8b71",
+        "tags": [
+          "Deform",
+          "Curve"
+        ],
+        "author": "Cartesian Caramel",
+        "license": "CC0",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Solid Extrude",
+      "id_type": "NODETREE",
+      "files": [
+        "5.2 Everyday Geometry Node Assets v5.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "6d5101d7-49fe-4639-a2bc-a51373eedf48",
+        "tags": [
+          "Generate"
+        ],
+        "author": "Cartesian Caramel",
+        "description": "Extrude with even thickness, bottom preservation,  ect",
+        "license": "CC0",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 64
+          },
+          {
+            "name": "node_tool_idname",
+            "type": "IDP_STRING",
+            "value": "geometry.solid_extrude"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Velocity Step",
+      "id_type": "NODETREE",
+      "files": [
+        "5.2 Everyday Geometry Node Assets v5.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "b0796145-4238-4a6b-90b9-707152f41c18",
+        "tags": [
+          "Simulation",
+          "Velocity"
+        ],
+        "author": "Cartesian Caramel",
+        "description": "Simulation building block for velocity",
+        "license": "CC0",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    }
+  ],
+  "files": [
+    {
+      "path": "5.2 Everyday Geometry Node Assets v5.blend",
+      "size_in_bytes": 3458514,
+      "hash": "SHA256:cc8cc1bd636cc69ff0b44f93a6f1aca602f6b20676fa5c0ba3f8f3ce863dc608",
+      "blender_version": "5.2.45",
+      "url": "5.2%20Everyday%20Geometry%20Node%20Assets%20v5.blend"
+    }
+  ]
+}

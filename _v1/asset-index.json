@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "asset_size_bytes": 3458514,
+  "asset_count": 15,
+  "file_count": 1,
+  "pages": [
+    {
+      "url": "_v1/assets-00000.json",
+      "hash": "SHA256:29832724edb0235ecc619bde0d4865cc4901d22ff3c2b77995a9917de1163dd0"
+    }
+  ],
+  "catalogs": [
+    {
+      "path": "Everyday GN Assets",
+      "uuids": [
+        "3d188593-1ef1-4252-83de-b505b6fdb2e4"
+      ],
+      "simple_name": "Everyday GN Assets"
+    },
+    {
+      "path": "Everyday GN Assets/Deform",
+      "uuids": [
+        "9e144ce9-0e74-4f0d-89bc-ab7ba03c8b71"
+      ],
+      "simple_name": "Everyday GN Assets-Deform"
+    },
+    {
+      "path": "Everyday GN Assets/Generate",
+      "uuids": [
+        "6d5101d7-49fe-4639-a2bc-a51373eedf48"
+      ],
+      "simple_name": "Everyday GN Assets-Generate"
+    },
+    {
+      "path": "Everyday GN Assets/Read",
+      "uuids": [
+        "50029d52-2377-4853-844b-3a002616cab4"
+      ],
+      "simple_name": "Everyday GN Assets-Read"
+    },
+    {
+      "path": "Everyday GN Assets/Simulation",
+      "uuids": [
+        "b0796145-4238-4a6b-90b9-707152f41c18"
+      ],
+      "simple_name": "Everyday GN Assets-Simulation"
+    }
+  ]
+}
