@@ -2,7 +2,7 @@
   "api_versions": {
     "v1": {
       "url": "_v1/asset-index.json",
-      "hash": "SHA256:df160dc70c3c8d70eb0f4b463a5476fde8d0113d971e67b545b5614e6d6440c6"
+      "hash": "SHA256:611c273fc529c1e9420dbc14bfcda79d8c331c90a9150dbdb78f7ed2140ba138"
     }
   },
   "name": "Everyday Geometry Node Assets",
