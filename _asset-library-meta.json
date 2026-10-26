@@ -5,10 +5,10 @@
       "hash": "SHA256:df160dc70c3c8d70eb0f4b463a5476fde8d0113d971e67b545b5614e6d6440c6"
     }
   },
-  "name": "Your Asset Library",
+  "name": "Everyday Geometry Node Assets",
   "contact": {
-    "name": "Your Name",
-    "url": "https://example.org/",
-    "email": "example@example.org"
+    "name": "Cartesian Caramel",
+    "url": "https://cartesiancaramel.github.io/blender-remote-asset-library-test-v1/",
+    "email": "cartesiancaramel@gmail.org"
   }
 }
