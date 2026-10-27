@@ -1,5 +1,5 @@
 {
-  "asset_count": 16,
+  "asset_count": 17,
   "file_count": 1,
   "assets": [
     {
@@ -118,6 +118,39 @@
             "name": "type",
             "type": "IDP_INT",
             "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Geometry Velocity",
+      "id_type": "NODETREE",
+      "files": [
+        "5.2 Everyday Geometry Node Assets v5.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "40836b5a-b5ad-4e12-96e0-9abc5cd92d47",
+        "tags": [
+          "Sample",
+          "Simulation",
+          "Velocity"
+        ],
+        "author": "Cartesian Caramel",
+        "description": "Velocity of geometry",
+        "license": "CC0 - Public Domain",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 64
           }
         ]
       }
@@ -282,7 +315,7 @@
       "meta": {
         "catalog_id": "40836b5a-b5ad-4e12-96e0-9abc5cd92d47",
         "tags": [
-          "Read",
+          "Sample",
           "SDF"
         ],
         "author": "Cartesian Caramel",
@@ -485,8 +518,8 @@
   "files": [
     {
       "path": "5.2 Everyday Geometry Node Assets v5.blend",
-      "size_in_bytes": 4563030,
-      "hash": "SHA256:649354c62a8952a548ecfe4bce0ff86313b0dfbeb2da21d6413a16512ebae335",
+      "size_in_bytes": 4983308,
+      "hash": "SHA256:928bb18401424877e67569a3693f0261343bb65ff18334811cfdc53eb6ef92b1",
       "blender_version": "5.2.45",
       "url": "5.2%20Everyday%20Geometry%20Node%20Assets%20v5.blend"
     }
