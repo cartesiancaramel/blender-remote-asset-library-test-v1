@@ -1,5 +1,5 @@
 {
-  "asset_count": 15,
+  "asset_count": 16,
   "file_count": 1,
   "assets": [
     {
@@ -50,7 +50,7 @@
         ],
         "author": "Cartesian Caramel",
         "description": "Curve to mesh node with UVMap output",
-        "license": "CC0",
+        "license": "CC0 - Public Domain",
         "properties": [
           {
             "name": "type",
@@ -107,6 +107,9 @@
       },
       "meta": {
         "catalog_id": "f57594ab-61b4-4a9c-862f-ae5e26f760ff",
+        "tags": [
+          "Utilities"
+        ],
         "author": "Cartesian Caramel",
         "description": "Ease math funtions",
         "license": "CC0 - Public Domain",
@@ -256,6 +259,7 @@
           "SDF"
         ],
         "author": "Cartesian Caramel",
+        "description": "Offsets points by SDF field",
         "license": "CC0 - Public Domain",
         "properties": [
           {
@@ -336,6 +340,7 @@
           "Curve"
         ],
         "author": "Cartesian Caramel",
+        "description": "Assebles curve vectors",
         "license": "CC0 - Public Domain",
         "properties": [
           {
@@ -414,6 +419,42 @@
       }
     },
     {
+      "name": "Surface Deform Basic",
+      "id_type": "NODETREE",
+      "files": [
+        "5.2 Everyday Geometry Node Assets v5.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "8a7eff58-5392-4e5a-83e5-733a48959b5d",
+        "tags": [
+          "Deform"
+        ],
+        "author": "Cartesian Caramel",
+        "description": "Deform geometry by mesh surface",
+        "license": "CC0 - Public Domain",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 64
+          },
+          {
+            "name": "node_tool_idname",
+            "type": "IDP_STRING",
+            "value": "geometry.gn_surface_deform_v4"
+          }
+        ]
+      }
+    },
+    {
       "name": "Velocity Step",
       "id_type": "NODETREE",
       "files": [
@@ -444,8 +485,8 @@
   "files": [
     {
       "path": "5.2 Everyday Geometry Node Assets v5.blend",
-      "size_in_bytes": 4109813,
-      "hash": "SHA256:875f55af06d150d29ff16704557fb62cecc31c33033aa214bfd9ed18228cc83b",
+      "size_in_bytes": 4563030,
+      "hash": "SHA256:649354c62a8952a548ecfe4bce0ff86313b0dfbeb2da21d6413a16512ebae335",
       "blender_version": "5.2.45",
       "url": "5.2%20Everyday%20Geometry%20Node%20Assets%20v5.blend"
     }
