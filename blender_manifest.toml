@@ -1,0 +1,23 @@
+schema_version = "1.0.0"
+
+id = "cartesian_caramel_everyday_geometry_nodes"
+version = "1.0.0"
+name = "Cartesian Caramel's Everyday Geometry Nodes"
+tagline = "The geometry node groups I use in my everyday workflow"
+maintainer = "Cartesian Caramel"
+type = "asset-library"
+
+website = "https://github.com/cartesiancaramel/blender-remote-asset-library-test-v1"
+
+blender_version_min = "5.2.0"
+
+license = [
+  "SPDX:CC0-1.0",
+]
+
+copyright = [
+   "2026 Cartesian Caramel",
+]
+
+[asset_library]
+remote_url = "https://cartesiancaramel.github.io/blender-remote-asset-library-test-v1/"
