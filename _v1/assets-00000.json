@@ -1,9 +1,9 @@
 {
-  "asset_count": 16,
+  "asset_count": 15,
   "file_count": 1,
   "assets": [
     {
-      "name": "Bevel Mesh Basic v2",
+      "name": "Bevel Mesh Basic",
       "id_type": "NODETREE",
       "files": [
         "5.2 Everyday Geometry Node Assets v5.blend"
@@ -12,13 +12,13 @@
         "min": "5.2"
       },
       "meta": {
-        "catalog_id": "6d5101d7-49fe-4639-a2bc-a51373eedf48",
+        "catalog_id": "2476b0ff-4cb6-4a88-b592-c49faf9364b1",
         "tags": [
           "Generate"
         ],
         "author": "Cartesian Caramel",
         "description": "Mesh Bevel with clamp, harden normals, ect",
-        "license": "CC0",
+        "license": "CC0 - Public Domain",
         "properties": [
           {
             "name": "type",
@@ -34,33 +34,6 @@
       }
     },
     {
-      "name": "Circular Array",
-      "id_type": "NODETREE",
-      "files": [
-        "5.2 Everyday Geometry Node Assets v5.blend"
-      ],
-      "bl_versions": {
-        "min": "5.2"
-      },
-      "meta": {
-        "catalog_id": "6d5101d7-49fe-4639-a2bc-a51373eedf48",
-        "tags": [
-          "Generate",
-          "Array"
-        ],
-        "author": "Cartesian Caramel",
-        "description": "Basic circular array",
-        "license": "CC0",
-        "properties": [
-          {
-            "name": "type",
-            "type": "IDP_INT",
-            "value": 3
-          }
-        ]
-      }
-    },
-    {
       "name": "Curve to Mesh UV",
       "id_type": "NODETREE",
       "files": [
@@ -70,7 +43,7 @@
         "min": "5.2"
       },
       "meta": {
-        "catalog_id": "6d5101d7-49fe-4639-a2bc-a51373eedf48",
+        "catalog_id": "d0bd15e9-f544-4503-a6b1-dd9f7f9bb615",
         "tags": [
           "Generate",
           "Curve"
@@ -107,13 +80,13 @@
         "min": "5.2"
       },
       "meta": {
-        "catalog_id": "50029d52-2377-4853-844b-3a002616cab4",
+        "catalog_id": "f78d039d-4a9e-409d-a183-f5cb9f24eab1",
         "tags": [
           "Read"
         ],
         "author": "Cartesian Caramel",
         "description": "Curve vector to next point",
-        "license": "CC0",
+        "license": "CC0 - Public Domain",
         "properties": [
           {
             "name": "type",
@@ -124,7 +97,7 @@
       }
     },
     {
-      "name": "Ease Functions v2",
+      "name": "Ease Functions",
       "id_type": "NODETREE",
       "files": [
         "5.2 Everyday Geometry Node Assets v5.blend"
@@ -133,10 +106,10 @@
         "min": "5.2"
       },
       "meta": {
-        "catalog_id": "50029d52-2377-4853-844b-3a002616cab4",
+        "catalog_id": "f57594ab-61b4-4a9c-862f-ae5e26f760ff",
         "author": "Cartesian Caramel",
         "description": "Ease math funtions",
-        "license": "CC0",
+        "license": "CC0 - Public Domain",
         "properties": [
           {
             "name": "type",
@@ -156,12 +129,13 @@
         "min": "5.2"
       },
       "meta": {
-        "catalog_id": "9e144ce9-0e74-4f0d-89bc-ab7ba03c8b71",
+        "catalog_id": "8a7eff58-5392-4e5a-83e5-733a48959b5d",
         "tags": [
           "Deform"
         ],
         "author": "Cartesian Caramel",
-        "license": "CC0",
+        "description": "Displace along geometry normal",
+        "license": "CC0 - Public Domain",
         "properties": [
           {
             "name": "type",
@@ -182,7 +156,7 @@
       }
     },
     {
-      "name": "Particle Simulation Basic v2",
+      "name": "Particle Simulation Basic",
       "id_type": "NODETREE",
       "files": [
         "5.2 Everyday Geometry Node Assets v5.blend"
@@ -198,7 +172,7 @@
         ],
         "author": "Cartesian Caramel",
         "description": "Basic particle simulation on points",
-        "license": "CC0",
+        "license": "CC0 - Public Domain",
         "properties": [
           {
             "name": "type",
@@ -223,14 +197,14 @@
         "min": "5.2"
       },
       "meta": {
-        "catalog_id": "6d5101d7-49fe-4639-a2bc-a51373eedf48",
+        "catalog_id": "b9e429fa-320d-4be8-9c14-08dacb3fd173",
         "tags": [
           "Generate",
           "Point"
         ],
         "author": "Cartesian Caramel",
         "description": "Points in a 3D grid layout",
-        "license": "CC0",
+        "license": "CC0 - Public Domain",
         "properties": [
           {
             "name": "type",
@@ -250,12 +224,13 @@
         "min": "5.2"
       },
       "meta": {
-        "catalog_id": "9e144ce9-0e74-4f0d-89bc-ab7ba03c8b71",
+        "catalog_id": "8a7eff58-5392-4e5a-83e5-733a48959b5d",
         "tags": [
           "Deform"
         ],
         "author": "Cartesian Caramel",
-        "license": "CC0",
+        "description": "Move points away from each other",
+        "license": "CC0 - Public Domain",
         "properties": [
           {
             "name": "type",
@@ -275,13 +250,13 @@
         "min": "5.2"
       },
       "meta": {
-        "catalog_id": "9e144ce9-0e74-4f0d-89bc-ab7ba03c8b71",
+        "catalog_id": "8a7eff58-5392-4e5a-83e5-733a48959b5d",
         "tags": [
           "Deform",
           "SDF"
         ],
         "author": "Cartesian Caramel",
-        "license": "CC0",
+        "license": "CC0 - Public Domain",
         "properties": [
           {
             "name": "type",
@@ -301,14 +276,14 @@
         "min": "5.2"
       },
       "meta": {
-        "catalog_id": "50029d52-2377-4853-844b-3a002616cab4",
+        "catalog_id": "40836b5a-b5ad-4e12-96e0-9abc5cd92d47",
         "tags": [
           "Read",
           "SDF"
         ],
         "author": "Cartesian Caramel",
         "description": "Distance and normal from a mesh as fields",
-        "license": "CC0",
+        "license": "CC0 - Public Domain",
         "properties": [
           {
             "name": "type",
@@ -328,14 +303,14 @@
         "min": "5.2"
       },
       "meta": {
-        "catalog_id": "50029d52-2377-4853-844b-3a002616cab4",
+        "catalog_id": "9b9731c9-43f5-493b-a97b-375bd2b4712e",
         "tags": [
           "Read",
           "UV"
         ],
         "author": "Cartesian Caramel",
         "description": "If edge is UV seam",
-        "license": "CC0",
+        "license": "CC0 - Public Domain",
         "properties": [
           {
             "name": "type",
@@ -355,13 +330,13 @@
         "min": "5.2"
       },
       "meta": {
-        "catalog_id": "9e144ce9-0e74-4f0d-89bc-ab7ba03c8b71",
+        "catalog_id": "6bd9eca3-2e68-46c5-b540-6f9e7b5611f0",
         "tags": [
           "Deform",
           "Curve"
         ],
         "author": "Cartesian Caramel",
-        "license": "CC0",
+        "license": "CC0 - Public Domain",
         "properties": [
           {
             "name": "type",
@@ -372,7 +347,7 @@
       }
     },
     {
-      "name": "Simulation Wrapper v2",
+      "name": "Simulation Wrapper",
       "id_type": "NODETREE",
       "files": [
         "5.2 Everyday Geometry Node Assets v5.blend"
@@ -387,7 +362,7 @@
         ],
         "author": "Cartesian Caramel",
         "description": "Closure based simulation building block",
-        "license": "CC0",
+        "license": "CC0 - Public Domain",
         "properties": [
           {
             "name": "type",
@@ -412,13 +387,13 @@
         "min": "5.2"
       },
       "meta": {
-        "catalog_id": "6d5101d7-49fe-4639-a2bc-a51373eedf48",
+        "catalog_id": "2476b0ff-4cb6-4a88-b592-c49faf9364b1",
         "tags": [
           "Generate"
         ],
         "author": "Cartesian Caramel",
         "description": "Extrude with even thickness, bottom preservation,  ect",
-        "license": "CC0",
+        "license": "CC0 - Public Domain",
         "properties": [
           {
             "name": "type",
@@ -455,7 +430,7 @@
         ],
         "author": "Cartesian Caramel",
         "description": "Simulation building block for velocity",
-        "license": "CC0",
+        "license": "CC0 - Public Domain",
         "properties": [
           {
             "name": "type",
@@ -469,8 +444,8 @@
   "files": [
     {
       "path": "5.2 Everyday Geometry Node Assets v5.blend",
-      "size_in_bytes": 4220028,
-      "hash": "SHA256:016dd52c23966330ddfbe777beae1b8a5c5c9bacc95b4aface10503595047ce2",
+      "size_in_bytes": 4109813,
+      "hash": "SHA256:875f55af06d150d29ff16704557fb62cecc31c33033aa214bfd9ed18228cc83b",
       "blender_version": "5.2.45",
       "url": "5.2%20Everyday%20Geometry%20Node%20Assets%20v5.blend"
     }

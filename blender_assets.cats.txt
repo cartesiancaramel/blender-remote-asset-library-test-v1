@@ -6,8 +6,18 @@
 
 VERSION 1
 
-3d188593-1ef1-4252-83de-b505b6fdb2e4:Everyday GN Assets:Everyday GN Assets
-9e144ce9-0e74-4f0d-89bc-ab7ba03c8b71:Everyday GN Assets/Deform:Everyday GN Assets-Deform
-6d5101d7-49fe-4639-a2bc-a51373eedf48:Everyday GN Assets/Generate:Everyday GN Assets-Generate
-50029d52-2377-4853-844b-3a002616cab4:Everyday GN Assets/Read:Everyday GN Assets-Read
-b0796145-4238-4a6b-90b9-707152f41c18:Everyday GN Assets/Simulation:Everyday GN Assets-Simulation
+3d188593-1ef1-4252-83de-b505b6fdb2e4:Geometry Nodes:Geometry Nodes
+66a12f3d-5fec-460c-b3e0-ae195fb68006:Geometry Nodes/Curve:Geometry Nodes-Curve
+d0bd15e9-f544-4503-a6b1-dd9f7f9bb615:Geometry Nodes/Curve/Operations:Geometry Nodes-Curve-Operations
+f78d039d-4a9e-409d-a183-f5cb9f24eab1:Geometry Nodes/Curve/Read:Geometry Nodes-Curve-Read
+6bd9eca3-2e68-46c5-b540-6f9e7b5611f0:Geometry Nodes/Curve/Write:Geometry Nodes-Curve-Write
+8a865b65-b252-4d73-be73-a69d25c17590:Geometry Nodes/Geometry:Geometry Nodes-Geometry
+40836b5a-b5ad-4e12-96e0-9abc5cd92d47:Geometry Nodes/Geometry/Sample:Geometry Nodes-Geometry-Sample
+8a7eff58-5392-4e5a-83e5-733a48959b5d:Geometry Nodes/Geometry/Write:Geometry Nodes-Geometry-Write
+d1e4765e-5aec-404d-8333-d338b8895f93:Geometry Nodes/Mesh:Geometry Nodes-Mesh
+2476b0ff-4cb6-4a88-b592-c49faf9364b1:Geometry Nodes/Mesh/Operations:Geometry Nodes-Mesh-Operations
+9b9731c9-43f5-493b-a97b-375bd2b4712e:Geometry Nodes/Mesh/Read:Geometry Nodes-Mesh-Read
+b9e429fa-320d-4be8-9c14-08dacb3fd173:Geometry Nodes/Point:Geometry Nodes-Point
+b0796145-4238-4a6b-90b9-707152f41c18:Geometry Nodes/Simulation:Geometry Nodes-Simulation
+e3b98290-307a-4a15-87c4-d3f860783018:Geometry Nodes/Utilities:Geometry Nodes-Utilities
+f57594ab-61b4-4a9c-862f-ae5e26f760ff:Geometry Nodes/Utilities/Math:Geometry Nodes-Utilities-Math

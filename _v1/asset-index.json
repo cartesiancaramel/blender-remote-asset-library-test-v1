@@ -1,49 +1,119 @@
 {
   "schema_version": "1.0.0",
-  "asset_size_bytes": 4220028,
-  "asset_count": 16,
+  "asset_size_bytes": 4109813,
+  "asset_count": 15,
   "file_count": 1,
   "pages": [
     {
       "url": "_v1/assets-00000.json",
-      "hash": "SHA256:5100abbf222a412e64ff56ae8630e263049711648fad3a015e4a4d96eb1bccee"
+      "hash": "SHA256:c37f72c49406465bc948259a43842b9c9a1963394694b1178917a4f01d6c5e76"
     }
   ],
   "catalogs": [
     {
-      "path": "Everyday GN Assets",
+      "path": "Geometry Nodes",
       "uuids": [
         "3d188593-1ef1-4252-83de-b505b6fdb2e4"
       ],
-      "simple_name": "Everyday GN Assets"
+      "simple_name": "Geometry Nodes"
     },
     {
-      "path": "Everyday GN Assets/Deform",
+      "path": "Geometry Nodes/Curve",
       "uuids": [
-        "9e144ce9-0e74-4f0d-89bc-ab7ba03c8b71"
+        "66a12f3d-5fec-460c-b3e0-ae195fb68006"
       ],
-      "simple_name": "Everyday GN Assets-Deform"
+      "simple_name": "Geometry Nodes-Curve"
     },
     {
-      "path": "Everyday GN Assets/Generate",
+      "path": "Geometry Nodes/Curve/Operations",
       "uuids": [
-        "6d5101d7-49fe-4639-a2bc-a51373eedf48"
+        "d0bd15e9-f544-4503-a6b1-dd9f7f9bb615"
       ],
-      "simple_name": "Everyday GN Assets-Generate"
+      "simple_name": "Geometry Nodes-Curve-Operations"
     },
     {
-      "path": "Everyday GN Assets/Read",
+      "path": "Geometry Nodes/Curve/Read",
       "uuids": [
-        "50029d52-2377-4853-844b-3a002616cab4"
+        "f78d039d-4a9e-409d-a183-f5cb9f24eab1"
       ],
-      "simple_name": "Everyday GN Assets-Read"
+      "simple_name": "Geometry Nodes-Curve-Read"
     },
     {
-      "path": "Everyday GN Assets/Simulation",
+      "path": "Geometry Nodes/Curve/Write",
+      "uuids": [
+        "6bd9eca3-2e68-46c5-b540-6f9e7b5611f0"
+      ],
+      "simple_name": "Geometry Nodes-Curve-Write"
+    },
+    {
+      "path": "Geometry Nodes/Geometry",
+      "uuids": [
+        "8a865b65-b252-4d73-be73-a69d25c17590"
+      ],
+      "simple_name": "Geometry Nodes-Geometry"
+    },
+    {
+      "path": "Geometry Nodes/Geometry/Sample",
+      "uuids": [
+        "40836b5a-b5ad-4e12-96e0-9abc5cd92d47"
+      ],
+      "simple_name": "Geometry Nodes-Geometry-Sample"
+    },
+    {
+      "path": "Geometry Nodes/Geometry/Write",
+      "uuids": [
+        "8a7eff58-5392-4e5a-83e5-733a48959b5d"
+      ],
+      "simple_name": "Geometry Nodes-Geometry-Write"
+    },
+    {
+      "path": "Geometry Nodes/Mesh",
+      "uuids": [
+        "d1e4765e-5aec-404d-8333-d338b8895f93"
+      ],
+      "simple_name": "Geometry Nodes-Mesh"
+    },
+    {
+      "path": "Geometry Nodes/Mesh/Operations",
+      "uuids": [
+        "2476b0ff-4cb6-4a88-b592-c49faf9364b1"
+      ],
+      "simple_name": "Geometry Nodes-Mesh-Operations"
+    },
+    {
+      "path": "Geometry Nodes/Mesh/Read",
+      "uuids": [
+        "9b9731c9-43f5-493b-a97b-375bd2b4712e"
+      ],
+      "simple_name": "Geometry Nodes-Mesh-Read"
+    },
+    {
+      "path": "Geometry Nodes/Point",
+      "uuids": [
+        "b9e429fa-320d-4be8-9c14-08dacb3fd173"
+      ],
+      "simple_name": "Geometry Nodes-Point"
+    },
+    {
+      "path": "Geometry Nodes/Simulation",
       "uuids": [
         "b0796145-4238-4a6b-90b9-707152f41c18"
       ],
-      "simple_name": "Everyday GN Assets-Simulation"
+      "simple_name": "Geometry Nodes-Simulation"
+    },
+    {
+      "path": "Geometry Nodes/Utilities",
+      "uuids": [
+        "e3b98290-307a-4a15-87c4-d3f860783018"
+      ],
+      "simple_name": "Geometry Nodes-Utilities"
+    },
+    {
+      "path": "Geometry Nodes/Utilities/Math",
+      "uuids": [
+        "f57594ab-61b4-4a9c-862f-ae5e26f760ff"
+      ],
+      "simple_name": "Geometry Nodes-Utilities-Math"
     }
   ]
 }
