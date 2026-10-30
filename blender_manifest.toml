@@ -1,8 +1,8 @@
 schema_version = "1.0.0"
 
-id = "cartesian_caramel_everyday_geometry_nodes"
+id = "cartesian_caramel_everyday_nodes"
 version = "1.0.0"
-name = "Cartesian Caramel's Everyday Geometry Nodes"
+name = "Cartesian Caramel's Everyday Nodes"
 tagline = "The geometry node groups I use in my everyday workflow"
 maintainer = "Cartesian Caramel"
 type = "asset-library"
