@@ -1,15 +1,17 @@
 schema_version = "1.0.0"
 
-id = "cartesian_caramel_everyday_geometry_nodes"
+id = "cartesian_caramel_everyday_nodes"
 version = "1.0.0"
-name = "Cartesian Caramel's Everyday Geometry Nodes"
+name = "Cartesian Caramel's Everyday Nodes"
 tagline = "The geometry node groups I use in my everyday workflow"
 maintainer = "Cartesian Caramel"
 type = "asset-library"
 
 website = "https://github.com/cartesiancaramel/blender-remote-asset-library-test-v1"
 
-blender_version_min = "5.2.0"
+blender_version_min = "5.3.0"
+
+tags = ["Geometry Nodes"]
 
 license = [
   "SPDX:CC0-1.0",
